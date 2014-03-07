@@ -1,0 +1,29 @@
+<games>
+	<game>
+		<event>Pearl Spring Chess Tournament</event>
+		<date>9/29/2009</date>
+		<white>Magnus Carlsen</white>
+		<black>Veselin Topalov</black>
+		<result>1-0</result>
+		<fen move="9">r1bq1rk1/pp3pbp/2pp1np1/2nPp3/2P1P1P1/2N1BN1P/PP3P2/R2QKB1R</fen>
+		<opening book="E90">King's Indian Defense: Normal Variation</opening>
+	</game>
+	<game>
+		<event>World Chess Championship</event>
+		<date>1/22/2014</date>
+		<white>Vishy Anand</white>
+		<black>Magnus Carlsen</black>
+		<result>0-1</result>
+		<fen move="19">r3r1k1/2pn1pp1/1b1pqn1p/Pp2p3/4P2B/2PPN2P/1P3PPN/R2QR1K1</fen>
+		<opening book="C65">Spanish Game: Berlin Defense</opening>
+	</game>
+	<game>
+		<event>Chess Olympiad</event>
+		<date>9/8/2012</date>
+		<white>Hikaru Nakamura</white>
+		<black>Vladimir Kramnik</black>
+		<result>1-0</result>
+		<fen move="33">3r2k1/p4p1p/b3p2b/npqpP1pQ/8/2P3P1/P4PBN/R3R1K1</fen>
+		<opening book="A05">Kings Indian Attack: Symmetrical Defense</opening>
+	</game>
+</games>
